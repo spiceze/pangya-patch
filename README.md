@@ -1,3 +1,3 @@
 # Pangya Grand patches
 
-Release assets are produced from verified Manager publications. The Git tree contains no game files.
+The 1.0 installer contains the full baseline. GitHub Releases hold only signed, versioned 1.x patch assets and manifests after the baseline is frozen. No baseline PAK or Client repair ZIPs are uploaded here.
